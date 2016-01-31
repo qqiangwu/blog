@@ -11,6 +11,8 @@
     + GoogleBot会忽略`#`后面的东西，除了`#!`，当然，百度都会忽略。
     + `<meta name="fragment" content="!">`
     + 算了，不想了，把时间花在这上面划不来！
+6. Google Analytics for SPA: angulartics
+7. Add Travis CI to avoid unnecessary deployment by Heroku
 
 # 遇到的问题
 1. Google在分析网页的时候会执行js，这是相当nice的，但在我第一次看到Google的分析结果时，我发现了这样一条错误：  
@@ -35,3 +37,10 @@
 5. 尝试向网页中添加jiaThis分享功能，但总是出现`Uncaught Syntax error, unrecognized expression: [object HTMLDivElement]`，于是无奈放弃。
 6. [2015/1/26]发现Google Webmaster，但是Googlebot在render时无法获取api.github的资源，于是又调回到原来的直接访问。但这样一来google cache又不work了。真是！
 7. 发现Googlebot无法识别`#!`。唉。再看看吧。
+
+# Heroku
+还是决定用一个服务器了。于是又是一堆新问题了。
+
+1. heroku不支持git submodule。=> 移除submodule。
+2. 使用NodeJS + Express
+3. SEO: 使用PhantomJS来根据User-Agent动态生成页面。
