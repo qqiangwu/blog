@@ -27,6 +27,7 @@
 + [Logspout](https://github.com/gliderlabs/logspout): Log routing for Docker container logs
 + [Nagios](nagios.org): Monitoring everythin: servers/services/switches
 + [Ganglia](http://ganglia.sourceforge.net/): Monitoring server grids
++ [huginn](https://github.com/cantino/huginn): Build agents that monitor and act on your behalf.
 
 # Middleware
 + [Amazon SQS](http://stackshare.io/amazon-sqs): Queueing Millions of Events
@@ -39,6 +40,7 @@
 + [Spring Initializer](http://start.spring.io/)
 + [frontend-maven-plugin](https://github.com/eirslett/frontend-maven-plugin)
 + [Pants Build](http://pantsbuild.github.io/)
++ [nativefier](https://github.com/jiahaog/nativefier): Wrap any web page natively without even thinking, across Windows, OSX and Linux
 
 # Frontend
 + [FIS](https://github.com/fex-team/fis3): Unified frontend optimization solution
