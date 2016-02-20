@@ -28,6 +28,7 @@
 + [Nagios](nagios.org): Monitoring everythin: servers/services/switches
 + [Ganglia](http://ganglia.sourceforge.net/): Monitoring server grids
 + [huginn](https://github.com/cantino/huginn): Build agents that monitor and act on your behalf.
++ [HeartBeat](http://git.oschina.net/mkk/HeartBeat): Lightweight liveness checker for web servers.
 
 # Middleware
 + [Amazon SQS](http://stackshare.io/amazon-sqs): Queueing Millions of Events
