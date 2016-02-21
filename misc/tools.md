@@ -2,6 +2,9 @@
 + [Gor](https://github.com/buger/gor): HTTP traffic replay in real-time.
 + [rest-assured](https://github.com/jayway/rest-assured): Java DSL for easy testing of REST services
 + [Postman](https://getpostman.com/features): A Chrome extension for restful testing
++ [Browser compatibility test](http://browsershots.org/)
++ [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
++ [YSlow](http://yslow.org/): YSlow analyzes web pages and why they're slow based on Yahoo!'s rules for high performance web sites
 
 # Benchmark
 + ab
@@ -45,7 +48,6 @@
 
 # Frontend
 + [FIS](https://github.com/fex-team/fis3): Unified frontend optimization solution
-+ [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 
 # Development & Deployment
 + [Otto](https://github.com/hashicorp/otto): Development and deployment made easy. Successor to Vagrant.
