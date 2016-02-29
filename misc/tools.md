@@ -13,6 +13,8 @@
 
 # Infrastructure
 + [kubernetes](http://kubernetes.io/): Manage container clusters
++ [OpenShift](https://github.com/openshift/origin): Build on top of k8s, augmented by application lifecycle management functionality and DevOps tooling. A complete open source application container platform.
++ [Cloud Foundry](https://www.cloudfoundry.org/)
 + [shipyard](http://shipyard-project.com/): Haven't try it yet
 + [Docker](https://www.docker.com/)
 + [Dokku](https://github.com/progrium/dokku): Docker powered mini-Heroku. The smallest PaaS implementation you've ever seen.
@@ -32,19 +34,19 @@
 + [Ganglia](http://ganglia.sourceforge.net/): Monitoring server grids
 + [huginn](https://github.com/cantino/huginn): Build agents that monitor and act on your behalf.
 + [HeartBeat](http://git.oschina.net/mkk/HeartBeat): Lightweight liveness checker for web servers.
++ [sysdig](https://github.com/draios/sysdig)
 
 # Middleware
 + [Amazon SQS](http://stackshare.io/amazon-sqs): Queueing Millions of Events
 + [Amazon SES](http://stackshare.io/amazon-ses): Email Service
-
-# Clustering
-+ [amoeba](http://docs.hexnova.com/amoeba/): MySQL Proxy
++ [Amoeba](http://docs.hexnova.com/amoeba/): MySQL Proxy
 
 # Building tools
 + [Spring Initializer](http://start.spring.io/)
 + [frontend-maven-plugin](https://github.com/eirslett/frontend-maven-plugin)
 + [Pants Build](http://pantsbuild.github.io/)
 + [nativefier](https://github.com/jiahaog/nativefier): Wrap any web page natively without even thinking, across Windows, OSX and Linux
++ [appsgeyser](http://www.appsgeyser.com/): Create apps out of websites.
 
 # Frontend
 + [FIS](https://github.com/fex-team/fis3): Unified frontend optimization solution
@@ -54,3 +56,15 @@
 
 # Nodejs
 + [Bluebird](http://bluebirdjs.com/docs/getting-started.html): convert async api to sync api.
+
+# API Gateway
++ [Kong](http://stackshare.io/kong)
+
+# Deployment
++ [Teletraan](https://github.com/pinterest/teletraan): Teletraan is Pinterest's deploy system. Do one thing and do it well.
+
+# Misc
++ [xip.io](http://xip.io/)
+
+# Docker
++ [Alpine Linux Docker Image](http://gliderlabs.viewdocs.io/docker-alpine/): Mini base container.
