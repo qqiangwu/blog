@@ -20,6 +20,7 @@
 + [Docker](https://www.docker.com/)
 + [Dokku](https://github.com/progrium/dokku): Docker powered mini-Heroku. The smallest PaaS implementation you've ever seen.
 + [Mesos](https://github.com/apache/mesos): A distributed scheduler and executor.
++ [Aurora](http://aurora.apache.org/): Aurora is a Mesos framework for long-running services and cron jobs.
 
 # Monitoring
 + [Prometheus](http://prometheus.io/): An open-source service monitoring system and time series database.
