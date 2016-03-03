@@ -11,3 +11,6 @@
 
 # Web
 + [openresty](http://stackshare.io/openresty): Turning Nginx into a Full-fledged Web App Server
+
+# Process Manager
++ [S6](http://skarnet.org/software/s6/)
