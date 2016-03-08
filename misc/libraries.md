@@ -14,3 +14,7 @@
 
 # Process Manager
 + [S6](http://skarnet.org/software/s6/)
+
+# API
++ [Fluent Api Creator](https://github.com/verhas/fluflu)
++ [OP4J](https://github.com/op4j.)

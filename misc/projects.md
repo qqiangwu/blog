@@ -12,3 +12,6 @@ The following are some open source projects for various usage.
 # CMS
 + [MCMS](http://git.oschina.net/mingSoft/MCMS): Free CMS system
 + [CMS](http://git.oschina.net/shishuo/CMS)
+
+# Social apps
++ [A High Copy WeChat ,SNS APP (高仿微信)](https://github.com/motianhuo/wechat)
