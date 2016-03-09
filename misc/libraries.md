@@ -14,6 +14,7 @@
 
 # Process Manager
 + [S6](http://skarnet.org/software/s6/)
++ [Upstart](https://www.digitalocean.com/community/tutorials/the-upstart-event-system-what-it-is-and-how-to-use-it)
 
 # API
 + [Fluent Api Creator](https://github.com/verhas/fluflu)
