@@ -19,3 +19,8 @@
 # API
 + [Fluent Api Creator](https://github.com/verhas/fluflu)
 + [OP4J](https://github.com/op4j.)
+
+# Bash
++ [sshcommand](https://github.com/dokku/sshcommand): Turn SSH into a thin client specifically for your app
++ [pluginhook](https://github.com/progrium/pluginhook): Simple dispatcher and protocol for shell-based plugins, an improvement to hook scripts
++ [gitreceive](Easily accept and handle arbitrary git pushes)
