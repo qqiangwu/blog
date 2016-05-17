@@ -58,6 +58,7 @@
 
 # Development & Deployment
 + [Otto](https://github.com/hashicorp/otto): Development and deployment made easy. Successor to Vagrant.
++ [Maven Buildplan](https://github.com/jcgay/buildplan-maven-plugin)
 
 # Nodejs
 + [Bluebird](http://bluebirdjs.com/docs/getting-started.html): convert async api to sync api.
