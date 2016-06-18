@@ -65,6 +65,7 @@
 
 # API Gateway
 + [Kong](http://stackshare.io/kong)
++ [Tenginx](http://tengine.taobao.org/)
 
 # Deployment
 + [Teletraan](https://github.com/pinterest/teletraan): Teletraan is Pinterest's deploy system. Do one thing and do it well.
