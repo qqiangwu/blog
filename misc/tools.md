@@ -22,6 +22,9 @@
 + [Mesos](https://github.com/apache/mesos): A distributed scheduler and executor.
 + [Aurora](http://aurora.apache.org/): Aurora is a Mesos framework for long-running services and cron jobs.
 
+# Database
++ [CacheCloud](https://github.com/sohutv/cachecloud)
+
 # Monitoring
 + [Prometheus](http://prometheus.io/): An open-source service monitoring system and time series database.
 + [Sentry](http://stackshare.io/sentry): Open-source error capturing
