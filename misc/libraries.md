@@ -59,3 +59,6 @@
     + Service
     + Collections
     + RateLimiter
++ [String Manipulation](https://github.com/shekhargulati/strman-java)
++ [Awesome](https://github.com/akullpp/awesome-java)
++ [Java Challenge](https://github.com/shekhargulati/99-problems/tree/master/java8)
